@@ -1,4 +1,4 @@
-# PasswordGenerator
+## PasswordGenerator
 
 # Program Description
 
